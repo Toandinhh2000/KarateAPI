@@ -1,0 +1,8 @@
+<dependencies>
+  <dependency>
+    <groupId>com.intuit.karate</groupId>
+    <artifactId>karate-junit5</artifactId>
+    <version>1.4.1</version> <!-- hoặc version mới nhất -->
+    <scope>test</scope>
+  </dependency>
+</dependencies>
